@@ -73,3 +73,8 @@ void moveIA(Enemy *e, SDL_Rect posPlayer)
         move(e);
     }
 }
+
+// int main()
+// {
+//     return 0;
+// }

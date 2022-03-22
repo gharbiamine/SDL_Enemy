@@ -1,0 +1,1 @@
+gcc enemy.c -o enemy -lSDL -lSDL_ttf -lSDL_mixer -lSDL_image
